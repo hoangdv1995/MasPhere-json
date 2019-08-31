@@ -11,48 +11,48 @@
     "planetContent": [
       {
         "name": "Common",
-        "length": 0,
         "value": 50000,
         "mas": 85000,
         "image": "/images/common-planet.png",
         "beforeSale": 100000,
+        "length": 0,
         "percentage": 0
       }, {
         "name": "Uncommon",
-        "length": 0,
         "value": 110000,
         "mas": 170000,
         "sale": 10,
         "image": "/images/uncommon-planet.png",
         "beforeSale": 200000,
+        "length": 0,
         "percentage": 0
       }, {
         "name": "Rare",
-        "length": 13,
         "value": 325000,
         "mas": 425000,
         "sale": 30,
         "image": "/images/rare-planet.png",
         "beforeSale": 500000,
+        "length": 13,
         "percentage": 65
       }, {
         "name": "Epic",
-        "length": 0,
         "value": 700000,
         "mas": 850000,
         "sale": 40,
         "image": "/images/epic-planet.png",
         "beforeSale": 1000000,
+        "length": 0,
         "percentage": 0
       }, {
         "name": "Legendary",
-        "length": null,
         "value": 3875000,
         "mas": 4250000,
         "sale": 55,
         "image": "/images/legendary-planet.png",
         "beforeSale": 5000000,
         "disableContent": true,
+        "length": null,
         "percentage": 100
       }
     ]
@@ -69,52 +69,52 @@
     "planetContent": [
       {
         "name": "Common",
-        "length": "???",
         "value": 50000,
         "mas": 90000,
         "image": "/images/common-planet.png",
         "beforeSale": 100000,
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Uncommon",
-        "length": "???",
         "value": 110000,
         "mas": 180000,
         "sale": 10,
         "image": "/images/uncommon-planet.png",
         "beforeSale": 200000,
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Rare",
-        "length": "???",
         "value": 325000,
         "mas": 450000,
         "sale": 30,
         "image": "/images/rare-planet.png",
         "beforeSale": 500000,
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Epic",
-        "length": "???",
         "value": 700000,
         "mas": 900000,
         "sale": 40,
         "image": "/images/epic-planet.png",
         "beforeSale": 1000000,
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Legendary",
-        "length": "???",
         "value": 3875000,
         "mas": 4500000,
         "sale": 55,
         "image": "/images/legendary-planet.png",
         "beforeSale": 5000000,
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }
     ]
@@ -130,47 +130,47 @@
     "planetContent": [
       {
         "name": "Common",
-        "length": "???",
         "value": 50000,
         "mas": 100000,
         "image": "/images/common-planet.png",
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Uncommon",
-        "length": "???",
         "value": 110000,
         "mas": 200000,
         "sale": 10,
         "image": "/images/uncommon-planet.png",
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Rare",
-        "length": "???",
         "value": 325000,
         "mas": 500000,
         "sale": 30,
         "image": "/images/rare-planet.png",
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Epic",
-        "length": "???",
         "value": 700000,
         "mas": 1000000,
         "sale": 40,
         "image": "/images/epic-planet.png",
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }, {
         "name": "Legendary",
-        "length": "???",
         "value": 3875000,
         "mas": 5000000,
         "sale": 55,
         "image": "/images/legendary-planet.png",
         "disableContent": true,
+        "length": "???",
         "percentage": 100
       }
     ]
