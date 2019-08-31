@@ -1,0 +1,178 @@
+{
+  "planetPhase1": {
+    "phaseExclusive": {
+      "description": "PHASE 1 EXCLUSIVE",
+      "child": [
+        { "p": "Available for MAS only." },
+        { "p": "Get 15% off." },
+        { "p": "Up to 5% Early bird bonus." }
+      ]
+    },
+    "planetContent": [
+      {
+        "name": "Common",
+        "length": 0,
+        "value": 50000,
+        "mas": 85000,
+        "image": "/images/common-planet.png",
+        "beforeSale": 100000,
+        "percentage": 0
+      }, {
+        "name": "Uncommon",
+        "length": 0,
+        "value": 110000,
+        "mas": 170000,
+        "sale": 10,
+        "image": "/images/uncommon-planet.png",
+        "beforeSale": 200000,
+        "percentage": 0
+      }, {
+        "name": "Rare",
+        "length": 13,
+        "value": 325000,
+        "mas": 425000,
+        "sale": 30,
+        "image": "/images/rare-planet.png",
+        "beforeSale": 500000,
+        "percentage": 65
+      }, {
+        "name": "Epic",
+        "length": 0,
+        "value": 700000,
+        "mas": 850000,
+        "sale": 40,
+        "image": "/images/epic-planet.png",
+        "beforeSale": 1000000,
+        "percentage": 0
+      }, {
+        "name": "Legendary",
+        "length": null,
+        "value": 3875000,
+        "mas": 4250000,
+        "sale": 55,
+        "image": "/images/legendary-planet.png",
+        "beforeSale": 5000000,
+        "disableContent": true,
+        "percentage": 100
+      }
+    ]
+  },
+  "planetPhase2": {
+    "phaseExclusive": {
+      "description": "PHASE 2 EXCLUSIVE",
+      "child": [
+        { "p": "Available for all Crypto-currencies (BTC.ETH, MAS, etc.)" },
+        { "p": "Get 10% off." },
+        { "p": "Early bird bonus" }
+      ]
+    },
+    "planetContent": [
+      {
+        "name": "Common",
+        "length": "???",
+        "value": 50000,
+        "mas": 90000,
+        "image": "/images/common-planet.png",
+        "beforeSale": 100000,
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Uncommon",
+        "length": "???",
+        "value": 110000,
+        "mas": 180000,
+        "sale": 10,
+        "image": "/images/uncommon-planet.png",
+        "beforeSale": 200000,
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Rare",
+        "length": "???",
+        "value": 325000,
+        "mas": 450000,
+        "sale": 30,
+        "image": "/images/rare-planet.png",
+        "beforeSale": 500000,
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Epic",
+        "length": "???",
+        "value": 700000,
+        "mas": 900000,
+        "sale": 40,
+        "image": "/images/epic-planet.png",
+        "beforeSale": 1000000,
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Legendary",
+        "length": "???",
+        "value": 3875000,
+        "mas": 4500000,
+        "sale": 55,
+        "image": "/images/legendary-planet.png",
+        "beforeSale": 5000000,
+        "disableContent": true,
+        "percentage": 100
+      }
+    ]
+  },
+  "planetPhase3": {
+    "phaseExclusive": {
+      "description": "PHASE 3 EXCLUSIVE",
+      "child": [
+        { "p": "Available for all Crypto-currencies (BTC.ETH, MAS, etc.)" },
+        { "p": "Early bird bonus" }
+      ]
+    },
+    "planetContent": [
+      {
+        "name": "Common",
+        "length": "???",
+        "value": 50000,
+        "mas": 100000,
+        "image": "/images/common-planet.png",
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Uncommon",
+        "length": "???",
+        "value": 110000,
+        "mas": 200000,
+        "sale": 10,
+        "image": "/images/uncommon-planet.png",
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Rare",
+        "length": "???",
+        "value": 325000,
+        "mas": 500000,
+        "sale": 30,
+        "image": "/images/rare-planet.png",
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Epic",
+        "length": "???",
+        "value": 700000,
+        "mas": 1000000,
+        "sale": 40,
+        "image": "/images/epic-planet.png",
+        "disableContent": true,
+        "percentage": 100
+      }, {
+        "name": "Legendary",
+        "length": "???",
+        "value": 3875000,
+        "mas": 5000000,
+        "sale": 55,
+        "image": "/images/legendary-planet.png",
+        "disableContent": true,
+        "percentage": 100
+      }
+    ]
+  }
+}
