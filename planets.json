@@ -33,8 +33,8 @@
         "sale": 30,
         "image": "/images/rare-planet.png",
         "beforeSale": 500000,
-        "length": 13,
-        "percentage": 65
+        "length": 11,
+        "percentage": 55
       }, {
         "name": "Epic",
         "value": 700000,
