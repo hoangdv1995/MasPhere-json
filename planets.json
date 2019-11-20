@@ -16,7 +16,8 @@
         "image": "/images/common-planet.png",
         "beforeSale": 100000,
         "length": 0,
-        "percentage": 0
+        "percentage": 0,
+        "disableContent": true
       }, {
         "name": "Uncommon",
         "value": 110000,
@@ -25,7 +26,8 @@
         "image": "/images/uncommon-planet.png",
         "beforeSale": 200000,
         "length": 0,
-        "percentage": 0
+        "percentage": 0,
+        "disableContent": true
       }, {
         "name": "Rare",
         "value": 325000,
@@ -34,7 +36,8 @@
         "image": "/images/rare-planet.png",
         "beforeSale": 500000,
         "length": 9,
-        "percentage": 45
+        "percentage": 45,
+        "disableContent": true
       }, {
         "name": "Epic",
         "value": 700000,
@@ -43,7 +46,8 @@
         "image": "/images/epic-planet.png",
         "beforeSale": 1000000,
         "length": 0,
-        "percentage": 0
+        "percentage": 0,
+        "disableContent": true
       }, {
         "name": "Legendary",
         "value": 3875000,
@@ -51,9 +55,9 @@
         "sale": 55,
         "image": "/images/legendary-planet.png",
         "beforeSale": 5000000,
-        "disableContent": true,
         "length": null,
-        "percentage": 100
+        "percentage": 100,
+        "disableContent": true
       }
     ]
   },
